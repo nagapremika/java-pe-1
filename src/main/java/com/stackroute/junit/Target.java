@@ -1,6 +1,6 @@
 package com.stackroute.junit;
 
-public class Target {
+public class Target {   //Compares target and guess number
     public static String find(Integer guess, int target) {
         String string = "";
         if (target > guess) {

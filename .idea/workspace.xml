@@ -1,7 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be5fb670-d882-499f-949c-915033833e17" name="Default Changelist" comment="" />
+    <list default="true" id="be5fb670-d882-499f-949c-915033833e17" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/junit/VowelAndConsonantChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/junit/SortingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Testcases/com/stackroute/junit/Add.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Testcases/com/stackroute/junit/Between.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Testcases/com/stackroute/junit/Character.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Testcases/com/stackroute/junit/Digit$Result.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Testcases/com/stackroute/junit/Digit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Testcases/com/stackroute/junit/Literal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Testcases/com/stackroute/junit/Palindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Testcases/com/stackroute/junit/Repeat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Testcases/com/stackroute/junit/Reverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Testcases/com/stackroute/junit/Target.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/Testcases/com/stackroute/junit/AddTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/Testcases/com/stackroute/junit/BetweenTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/Testcases/com/stackroute/junit/CharacterTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/Testcases/com/stackroute/junit/DigitTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/Testcases/com/stackroute/junit/IterationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/Testcases/com/stackroute/junit/IterationTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/Testcases/com/stackroute/junit/LiteralTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/Testcases/com/stackroute/junit/PalindromeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/Testcases/com/stackroute/junit/RepeatTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/Testcases/com/stackroute/junit/ReverseTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/Testcases/com/stackroute/junit/TargetTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/junit/Add.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/junit/NumberAdder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/junit/Between.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/junit/EvenOrOddChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/junit/Character.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/junit/Digit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/junit/Sorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/junit/Iteration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/junit/Iteration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/junit/Literal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/junit/AlphabetChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/junit/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/junit/PalindromeChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/junit/Repeat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/junit/RepeatString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/junit/Reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/junit/ReverseString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/junit/Target.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/junit/TargetChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/junit/AddTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/junit/NumberAdderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/junit/BetweenTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/junit/EvenOrOddCheckerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/junit/CharacterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/junit/VowelAndConsonantCheckerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/junit/DigitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/junit/IterationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/junit/IterationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/junit/LiteralTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/junit/AlphabetCheckerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/junit/PalindromeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/junit/PalindromeCheckerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/junit/RepeatTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/junit/RepeatStringTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/junit/ReverseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/junit/ReverseStringTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/junit/TargetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/junit/TargetCheckerTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,107 +62,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/junit/Add.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="13" selection-end-line="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/junit/AddTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="157">
-              <caret line="9" column="13" selection-end-line="58" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/junit/Digit.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="13" selection-end-line="58" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/junit/DigitTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="59" column="5" lean-forward="true" selection-end-line="61" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/junit/Character.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="13" selection-end-line="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/junit/CharacterTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="9" column="25" lean-forward="true" selection-end-line="56" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/junit/Repeat.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="17" column="6" lean-forward="true" selection-end-line="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/junit/RepeatTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="311">
-              <caret line="17" column="5" lean-forward="true" selection-end-line="57" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/junit/Target.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="14" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/junit/TargetTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/junit/SortingTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="13" column="11" lean-forward="true" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+            <state>
+              <caret lean-forward="true" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/junit/Sorting.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="317">
+              <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
             </state>
           </provider>
         </entry>
@@ -129,39 +93,57 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/junit/Palindrome.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/junit/Reverse.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/junit/ReverseTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/junit/Literal.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/junit/LiteralTest.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/junit/PalindromeTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/junit/Between.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/junit/BetweenTest.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/junit/IterationTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/junit/Iteration.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/junit/Target.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/junit/TargetTest.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/junit/RepeatTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/junit/Repeat.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/junit/CharacterTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/junit/Character.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/junit/Add.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/junit/AddTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/junit/Digit.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/junit/DigitTest.java" />
         <option value="$USER_HOME$/Desktop/Java_Assignment/DataMungerStep1_Boilerplate/src/com/stackroute/datamunger/DataMunger.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/junit/AddTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/junit/Character.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/junit/CharacterTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/junit/VowelAndConsonantChecker.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/junit/NumberAdder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/junit/Literal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/junit/AlphabetChecker.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/junit/LiteralTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/junit/AlphabetCheckerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/junit/Reverse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/junit/ReverseString.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/junit/ReverseTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/junit/Repeat.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/junit/RepeatTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/junit/RepeatStringTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/junit/RepeatString.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/junit/Palindrome.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/junit/VowelAndConsonantCheckerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/junit/NumberAdderTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/junit/Between.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/junit/EvenOrOddChecker.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/junit/BetweenTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/junit/EvenOrOddCheckerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/junit/PalindromeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/junit/Target.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/junit/TargetChecker.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/junit/TargetTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/junit/IterationTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/junit/Digit.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/junit/Sorting.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/junit/DigitTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/junit/SortingTest.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="198" />
     <option name="y" value="44" />
     <option name="width" value="486" />
     <option name="height" value="833" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -266,15 +248,16 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Java_Assignment/DataMungerStep1_Boilerplate" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -283,11 +266,11 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="com.stackroute.junit" />
     </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.stackroute.junit" />
-    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.stackroute.junit" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -302,8 +285,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.DigitTest.givenOneIntegerShouldReturnValueTrue">
-    <configuration name="DigitTest.givenFiveDigitIntegerShouldReturnValues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.SortingTest.givenOneIntegerShouldReturnOrder">
+    <configuration name="DigitTest.givenOneIntegerShouldReturnOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Testcases" />
       <extension name="coverage">
         <pattern>
@@ -313,13 +296,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.stackroute.junit" />
       <option name="MAIN_CLASS_NAME" value="com.stackroute.junit.DigitTest" />
-      <option name="METHOD_NAME" value="givenFiveDigitIntegerShouldReturnValues" />
+      <option name="METHOD_NAME" value="givenOneIntegerShouldReturnOrder" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DigitTest.givenNegativeIntegerShouldReturnValues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DigitTest.givenOneIntegerShouldReturnSumResult" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Testcases" />
       <extension name="coverage">
         <pattern>
@@ -329,13 +312,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.stackroute.junit" />
       <option name="MAIN_CLASS_NAME" value="com.stackroute.junit.DigitTest" />
-      <option name="METHOD_NAME" value="givenNegativeIntegerShouldReturnValues" />
+      <option name="METHOD_NAME" value="givenOneIntegerShouldReturnSumResult" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DigitTest.givenOneIntegerShouldReturn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SortingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Testcases" />
       <extension name="coverage">
         <pattern>
@@ -344,14 +327,29 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.stackroute.junit" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.junit.DigitTest" />
-      <option name="METHOD_NAME" value="givenOneIntegerShouldReturn" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.junit.SortingTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortingTest.givenOneIntegerShouldReturnOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Testcases" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.junit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.junit" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.junit.SortingTest" />
+      <option name="METHOD_NAME" value="givenOneIntegerShouldReturnOrder" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DigitTest.givenOneIntegerShouldReturnValueTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SortingTest.givenOneIntegerShouldReturnSumResult" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Testcases" />
       <extension name="coverage">
         <pattern>
@@ -360,24 +358,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.stackroute.junit" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.junit.DigitTest" />
-      <option name="METHOD_NAME" value="givenOneIntegerShouldReturnValueTrue" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DigitTest.givenZeroShouldReturnZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Testcases" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.stackroute.junit.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.stackroute.junit" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.junit.DigitTest" />
-      <option name="METHOD_NAME" value="givenZeroShouldReturnZero" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.junit.SortingTest" />
+      <option name="METHOD_NAME" value="givenOneIntegerShouldReturnSumResult" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -385,11 +367,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.DigitTest.givenOneIntegerShouldReturnValueTrue" />
-        <item itemvalue="JUnit.DigitTest.givenFiveDigitIntegerShouldReturnValues" />
-        <item itemvalue="JUnit.DigitTest.givenNegativeIntegerShouldReturnValues" />
-        <item itemvalue="JUnit.DigitTest.givenZeroShouldReturnZero" />
-        <item itemvalue="JUnit.DigitTest.givenOneIntegerShouldReturn" />
+        <item itemvalue="JUnit.SortingTest.givenOneIntegerShouldReturnOrder" />
+        <item itemvalue="JUnit.SortingTest" />
+        <item itemvalue="JUnit.SortingTest.givenOneIntegerShouldReturnSumResult" />
+        <item itemvalue="JUnit.DigitTest.givenOneIntegerShouldReturnOrder" />
+        <item itemvalue="JUnit.DigitTest.givenOneIntegerShouldReturnSumResult" />
       </list>
     </recent_temporary>
   </component>
@@ -407,42 +389,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AddTest_givenOneStringShouldReturnSum - 2019.06.26 at 12h 54m 17s.xml">
-      <configuration name="AddTest.givenOneStringShouldReturnSum" configurationId="JUnit" />
+    <history-entry file="DigitTest_givenOneIntegerShouldReturnOrder - 2019.07.02 at 00h 00m 43s.xml">
+      <configuration name="DigitTest.givenOneIntegerShouldReturnOrder" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AddTest_givenOneStringShouldReturn - 2019.06.26 at 12h 55m 50s.xml">
-      <configuration name="AddTest.givenOneStringShouldReturn" configurationId="JUnit" />
+    <history-entry file="DigitTest_givenOneIntegerShouldReturnOrder - 2019.07.02 at 00h 00m 46s.xml">
+      <configuration name="DigitTest.givenOneIntegerShouldReturnOrder" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AddTest_givenNullShouldReturnError - 2019.06.26 at 12h 57m 17s.xml">
-      <configuration name="AddTest.givenNullShouldReturnError" configurationId="JUnit" />
+    <history-entry file="DigitTest_givenOneIntegerShouldReturnOrder - 2019.07.02 at 00h 05m 38s.xml">
+      <configuration name="DigitTest.givenOneIntegerShouldReturnOrder" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DigitTest_givenOneIntegerShouldReturn - 2019.06.26 at 14h 27m 07s.xml">
-      <configuration name="DigitTest.givenOneIntegerShouldReturn" configurationId="JUnit" />
+    <history-entry file="SortingTest - 2019.07.02 at 00h 06m 52s.xml">
+      <configuration name="SortingTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DigitTest_givenOneIntegerShouldReturn - 2019.06.26 at 14h 28m 19s.xml">
-      <configuration name="DigitTest.givenOneIntegerShouldReturn" configurationId="JUnit" />
+    <history-entry file="SortingTest_givenOneIntegerShouldReturnOrder - 2019.07.03 at 17h 10m 58s.xml">
+      <configuration name="SortingTest.givenOneIntegerShouldReturnOrder" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DigitTest_givenOneIntegerShouldReturn - 2019.06.26 at 14h 29m 26s.xml">
-      <configuration name="DigitTest.givenOneIntegerShouldReturn" configurationId="JUnit" />
+    <history-entry file="SortingTest - 2019.07.03 at 17h 17m 39s.xml">
+      <configuration name="SortingTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DigitTest_givenZeroShouldReturnZero - 2019.06.26 at 20h 29m 50s.xml">
-      <configuration name="DigitTest.givenZeroShouldReturnZero" configurationId="JUnit" />
+    <history-entry file="SortingTest_givenOneIntegerShouldReturnSumResult - 2019.07.03 at 17h 18m 18s.xml">
+      <configuration name="SortingTest.givenOneIntegerShouldReturnSumResult" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DigitTest_givenNegativeIntegerShouldReturnValues - 2019.06.26 at 20h 33m 13s.xml">
-      <configuration name="DigitTest.givenNegativeIntegerShouldReturnValues" configurationId="JUnit" />
+    <history-entry file="SortingTest_givenOneIntegerShouldReturnOrder - 2019.07.03 at 17h 18m 45s.xml">
+      <configuration name="SortingTest.givenOneIntegerShouldReturnOrder" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DigitTest_givenFiveDigitIntegerShouldReturnValues - 2019.06.26 at 20h 35m 06s.xml">
-      <configuration name="DigitTest.givenFiveDigitIntegerShouldReturnValues" configurationId="JUnit" />
+    <history-entry file="SortingTest - 2019.07.03 at 17h 18m 51s.xml">
+      <configuration name="SortingTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DigitTest_givenOneIntegerShouldReturnValueTrue - 2019.06.26 at 20h 36m 11s.xml">
-      <configuration name="DigitTest.givenOneIntegerShouldReturnValueTrue" configurationId="JUnit" />
+    <history-entry file="SortingTest_givenOneIntegerShouldReturnOrder - 2019.07.03 at 17h 19m 05s.xml">
+      <configuration name="SortingTest.givenOneIntegerShouldReturnOrder" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1533" height="875" extended-state="7" />
+    <frame x="67" y="25" width="1533" height="875" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23537323" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2521856" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -451,15 +433,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.328877" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39973262" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.21447721" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3994638" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.328877" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32841823" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -474,26 +456,32 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/test/com/stackroute/junit/RepeatTest.java</url>
-          <line>26</line>
-          <properties class="com.stackroute.junit.RepeatTest" method="givenIntegerAndStringShouldReturnString">
+          <url>file://$PROJECT_DIR$/src/main/test/com/stackroute/junit/RepeatStringTest.java</url>
+          <line>24</line>
+          <properties class="com.stackroute.junit.RepeatStringTest" method="givenIntegerAndStringShouldReturnString">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/test/com/stackroute/junit/CharacterTest.java</url>
+          <url>file://$PROJECT_DIR$/src/main/test/com/stackroute/junit/VowelAndConsonantCheckerTest.java</url>
           <line>46</line>
-          <properties class="com.stackroute.junit.CharacterTest" method="givenNullShouldReturnError">
+          <properties class="com.stackroute.junit.VowelAndConsonantCheckerTest">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/test/com/stackroute/junit/CharacterTest.java</url>
+          <url>file://$PROJECT_DIR$/src/main/test/com/stackroute/junit/VowelAndConsonantCheckerTest.java</url>
           <line>47</line>
           <properties />
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/test/com/stackroute/junit/SortingTest.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -506,81 +494,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/junit/ReverseTest.java">
+    <entry file="file://$USER_HOME$/Desktop/Java_Assignment/DataMungerStep1_Boilerplate/src/com/stackroute/datamunger/DataMunger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1012">
-          <caret line="52" column="33" selection-start-line="52" selection-start-column="33" selection-end-line="52" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="154">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/junit/Between.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/junit/NumberAdder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        <state>
+          <caret column="26" lean-forward="true" selection-start-column="26" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/junit/BetweenTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/junit/VowelAndConsonantChecker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="32" column="21" lean-forward="true" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/junit/LiteralTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/junit/Reverse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/junit/Literal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/junit/PalindromeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="44" column="9" lean-forward="true" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/junit/Palindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="674">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/junit/IterationTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="41" column="16" lean-forward="true" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="88">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -591,92 +522,156 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/Java_Assignment/DataMungerStep1_Boilerplate/src/com/stackroute/datamunger/DataMunger.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/junit/AlphabetChecker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        <state relative-caret-position="66">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/junit/Add.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/junit/ReverseString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/junit/RepeatString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/junit/PalindromeChecker.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
-          <caret line="2" column="13" selection-end-line="28" />
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/junit/AddTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/junit/TargetChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/junit/EvenOrOddChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/junit/EvenOrOddCheckerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/junit/PalindromeCheckerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/junit/RepeatStringTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="157">
-          <caret line="9" column="13" selection-end-line="58" selection-end-column="1" />
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/junit/Digit.java">
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/junit/VowelAndConsonantCheckerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-end-line="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/junit/DigitTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="59" column="5" lean-forward="true" selection-end-line="61" selection-end-column="1" />
+        <state relative-caret-position="157">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/junit/Character.java">
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/junit/NumberAdderTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-end-line="39" />
+        <state relative-caret-position="157">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/junit/CharacterTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/junit/IterationTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
-          <caret line="9" column="25" lean-forward="true" selection-end-line="56" selection-end-column="1" />
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/junit/Repeat.java">
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/junit/AlphabetCheckerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="6" lean-forward="true" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/junit/RepeatTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="17" column="5" lean-forward="true" selection-end-line="57" selection-end-column="1" />
+        <state relative-caret-position="22">
+          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/junit/Target.java">
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/junit/ReverseStringTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="14" selection-end-line="21" />
+        <state relative-caret-position="176">
+          <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/junit/TargetTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/junit/TargetCheckerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="13" column="11" lean-forward="true" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+        <state relative-caret-position="22">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/junit-4.12.jar!/org/junit/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="333" selection-start-line="333" selection-end-line="333" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/junit/Sorting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/junit/SortingTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -1,6 +1,6 @@
 package com.stackroute.junit;
 
-public class Iteration {
+public class Iteration {    //This class Iterates the numbers
     public static String loop(int number1){
 String str="";
 

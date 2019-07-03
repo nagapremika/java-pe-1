@@ -4,23 +4,22 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
-import static com.stackroute.junit.Iteration.loop;
-import static com.stackroute.junit.Palindrome.palindrome;
+
 import static org.junit.Assert.*;
 
 public class IterationTest {
-    public Iteration iter;
+    public Iteration iteration;
 
     @Before
     public void setUp() {
-        System.out.println("Before");
-        iter = new Iteration();
+
+        iteration = new Iteration();
     }
 
     @After
     public void tearDown() {
-        System.out.println("After");
-        iter = null;
+
+        iteration = null;
     }
 
     @Test
@@ -28,7 +27,7 @@ public class IterationTest {
         //arrange
 
         //Act
-        String result= loop ( 3);
+        String result= iteration.loop ( 3);
         //Assert
         assertEquals("122333", result);
 
@@ -38,7 +37,7 @@ public class IterationTest {
         //arrange
 
         //Act
-        String result= loop(5);
+        String result= iteration.loop(5);
         //Assert
         assertEquals("122333444455555", result);
 
@@ -48,7 +47,7 @@ public class IterationTest {
         //arrange
 
         //Act
-        String result= loop(-1);
+        String result= iteration.loop(-1);
         //Assert
         assertEquals("Error", result);
 

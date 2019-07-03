@@ -285,7 +285,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SortingTest.givenOneIntegerShouldReturnOrder">
+  <component name="RunManager" selected="JUnit.TargetCheckerTest">
     <configuration name="DigitTest.givenOneIntegerShouldReturnOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Testcases" />
       <extension name="coverage">
@@ -297,22 +297,6 @@
       <option name="PACKAGE_NAME" value="com.stackroute.junit" />
       <option name="MAIN_CLASS_NAME" value="com.stackroute.junit.DigitTest" />
       <option name="METHOD_NAME" value="givenOneIntegerShouldReturnOrder" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DigitTest.givenOneIntegerShouldReturnSumResult" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Testcases" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.stackroute.junit.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.stackroute.junit" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.junit.DigitTest" />
-      <option name="METHOD_NAME" value="givenOneIntegerShouldReturnSumResult" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -365,13 +349,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TargetCheckerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Testcases" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.junit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.junit" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.junit.TargetCheckerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TargetCheckerTest" />
         <item itemvalue="JUnit.SortingTest.givenOneIntegerShouldReturnOrder" />
         <item itemvalue="JUnit.SortingTest" />
         <item itemvalue="JUnit.SortingTest.givenOneIntegerShouldReturnSumResult" />
         <item itemvalue="JUnit.DigitTest.givenOneIntegerShouldReturnOrder" />
-        <item itemvalue="JUnit.DigitTest.givenOneIntegerShouldReturnSumResult" />
       </list>
     </recent_temporary>
   </component>

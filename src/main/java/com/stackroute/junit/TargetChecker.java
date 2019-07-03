@@ -1,7 +1,9 @@
 package com.stackroute.junit;
 
 public class TargetChecker {
-    public  String find(Integer guess, int target) {
+    public  String find(int guess, int target) {
+  //Compares target and guess number
+
         String string = "";
         if (target > guess) {
             string = "Number guessed is less than original number";
